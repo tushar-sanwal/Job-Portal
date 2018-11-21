@@ -119,7 +119,7 @@
                             <li><a href="careers.jsp" style="margin:0px;">Careers</a></li>
                         </ul>
                     </div>
-                    <div class="col-md-12 col-sm-4 item social" style="height:17px;margin:-6px;"><a><i class="icon ion-social-facebook pulse animated infinite"></i></a><a><i class="icon ion-social-instagram"></i></a><a><i class="icon ion-social-twitter"></i></a><a><i class="icon ion-social-linkedin"></i></a><a><i class="icon ion-social-github"></i></a></div>
+                    <div class="col-md-12 col-sm-4 item social" style="height:17px;margin:-6px;"><a href="https://www.facebook.com/tushar.sanwal"><i class="icon ion-social-facebook pulse animated infinite" style="cursor: pointer"></i></a><a href="https://www.instagram.com/tusharsanwal/"><i class="icon ion-social-instagram" style="cursor: pointer"></i></a><a href="https://twitter.com/SanwalTushar"><i class="icon ion-social-twitter" style="cursor: pointer"></i></a><a href="https://in.linkedin.com/in/tushar-sanwal-0753b4135"><i class="icon ion-social-linkedin" style="cursor: pointer"></i></a><a href="https://github.com/tushar-sanwal"><i class="icon ion-social-github" style="cursor: pointer"></i></a></div>
                 </div>
                 <p class="hidden-xs copyright" style="font-size:23px;color:rgb(255,255,255);height:76px;">www.getjob.in</p>
                 <p class="copyright" style="font-size:15px;color:rgb(0, 0, 0);height:76px;">
